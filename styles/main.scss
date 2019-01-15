@@ -150,7 +150,6 @@
             padding: 30px 0;
             font-family: $primary-font;
             color: $heading;
-            transform: scale(0);
             animation: zoomIn 1.5s 5.4s forwards cubic-bezier(.03,.48,.08,1.4);
             @keyframes zoomIn {
                 0%{transform: scale(0);}
